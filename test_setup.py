@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-Book Recommender System - Setup Test Script
-This script helps verify that your setup is working correctly.
-"""
-
 import sys
 import os
 from pathlib import Path
