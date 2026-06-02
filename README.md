@@ -229,7 +229,12 @@ similar_books = sorted(similarity_scores[book_index], reverse=True)[1:5]
 
 ## Screenshots
 
-*Add screenshots of your application here*
+<img width="1894" height="891" alt="Screenshot 2026-06-02 054037" src="https://github.com/user-attachments/assets/0fada3e3-0d9b-4078-85a8-1cf459ed6126" />
+
+
+<img width="1903" height="933" alt="Screenshot 2026-06-02 053946" src="https://github.com/user-attachments/assets/51dec4ad-bfcf-496a-98e8-e1ffa086c981" />
+
+
 
 ## Performance Metrics
 
@@ -263,19 +268,6 @@ similar_books = sorted(similarity_scores[book_index], reverse=True)[1:5]
 - [ ] **REST API** for mobile app integration
 - [ ] **Docker Containerization** for easy deployment
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -287,17 +279,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-**Developer**: [Your Name]
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
-
+**Developer**: Aarti Patel
+- Email: aartipatel0427@gmail.com
+- LinkedIn:https://www.linkedin.com/in/aarti-patel-252908259
 ---
 
-<div align="center">
-
-**If this project helped you, please give it a star!**
-
-Made with Python | © 2024 Book Recommender System
-
-</div>
